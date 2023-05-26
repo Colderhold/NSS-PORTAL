@@ -1,5 +1,6 @@
-**#Semester 4 Project: NSS Portal**
+**Semester 4 Project: NSS Portal**
 **Description**
+
 This project is a web-based NSS (National Service Scheme) Portal developed using HTML, CSS, PHP, and MySQL. The NSS Portal serves as a platform for NSS volunteers and administrators to manage and communicate various activities related to the NSS program.
 
 **Features**
